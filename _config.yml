@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sojin Jang"
-resume_title:                   " *jsojin6119@gmail.com* "
+resume_title:                   *" jsojin6119@gmail.com "*
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jsojin6119@gmail.com"

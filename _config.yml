@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sojin Jang"
-resume_title:                   " Contact "
+resume_title:                   " jsojin6119@gmail.com "
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jsojin6119@gmail.com"
@@ -52,7 +52,7 @@ resume_social_links:
 #  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
 #  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "jsojin6119@gmail.com"
+ # resume_medium_url:            "jsojin6119@gmail.com"
 resume_print_social_links:      true
 
 # Design settings
